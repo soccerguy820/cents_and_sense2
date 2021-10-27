@@ -1,0 +1,284 @@
+/*
+	@name cents_and_sense
+*/
+/* Only edit this if you know what you are doing! */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+/* Only edit this if you know what you are doing! */
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+/* Only edit this if you know what you are doing! */
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#_bg__account_login {
+  top: 0px;
+  left: 0px;
+  width: 1500px;
+  height: 1000px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#background {
+  top: 0px;
+  left: 0px;
+  width: 1500px;
+  height: 1000px;
+  background: rgba(59.5, 59.5, 59.5, 1);
+}
+
+#loginbottom {
+  top: 877px;
+  left: 0px;
+  width: 1500px;
+  height: 123px;
+}
+
+#userprofilebtn {
+  top: 859px;
+  left: 1128.5px;
+  width: 75px;
+  height: 75px;
+}
+
+#ellipse_1 {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 75px;
+  -ms-border-radius: 37.5px / 37.5px;
+  -o-border-radius: 37.5px / 37.5px;
+  -moz-border-radius: 37.5px / 37.5px;
+  -webkit-border-radius: 37.5px / 37.5px;
+  border-radius: 37.5px / 37.5px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#usericon {
+  top: 8px;
+  left: 10px;
+  width: 56px;
+  height: 56px;
+}
+
+#icon {
+  top: 4.67px;
+  left: 7px;
+  width: 42px;
+  height: 46.67px;
+}
+
+#ellipse_2 {
+  top: 896px;
+  left: 713px;
+  width: 75px;
+  height: 75px;
+  -ms-border-radius: 37.5px / 37.5px;
+  -o-border-radius: 37.5px / 37.5px;
+  -moz-border-radius: 37.5px / 37.5px;
+  -webkit-border-radius: 37.5px / 37.5px;
+  border-radius: 37.5px / 37.5px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#calculatorbtn_ek1 {
+  top: 906px;
+  left: 722px;
+  width: 56px;
+  height: 56px;
+}
+
+#icon_ek1 {
+  top: 4.67px;
+  left: 7px;
+  width: 42px;
+  height: 46.67px;
+}
+
+#ellipse_3 {
+  top: 896px;
+  left: 295.5px;
+  width: 75px;
+  height: 75px;
+  -ms-border-radius: 37.5px / 37.5px;
+  -o-border-radius: 37.5px / 37.5px;
+  -moz-border-radius: 37.5px / 37.5px;
+  -webkit-border-radius: 37.5px / 37.5px;
+  border-radius: 37.5px / 37.5px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#dataicon {
+  top: 906px;
+  left: 307.5px;
+  width: 56px;
+  height: 56px;
+}
+
+#icon_ek2 {
+  top: 4.67px;
+  left: 4.67px;
+  width: 46.67px;
+  height: 46.67px;
+}
+
+#rectangle_31 {
+  top: 616px;
+  left: 621px;
+  width: 279px;
+  height: 66px;
+  background: rgba(196, 196, 196, 1);
+}
+
+#submit {
+  top: 631px;
+  left: 616px;
+  width: 299px;
+  height: 56px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: center;
+  color: #000000;
+}
+
+#passwordtxt {
+  top: 435px;
+  left: 425px;
+  width: 650px;
+  height: 126px;
+}
+
+#passwordtextbox {
+  top: 46px;
+  left: 0px;
+  width: 650px;
+  height: 80px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#password {
+  top: 0px;
+  left: 1px;
+  width: 299px;
+  height: 56px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#usernametxt {
+  top: 254px;
+  left: 425px;
+  width: 650px;
+  height: 126px;
+}
+
+#usernametextbox {
+  top: 46px;
+  left: 0px;
+  width: 650px;
+  height: 80px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#username {
+  top: 0px;
+  left: 1px;
+  width: 299px;
+  height: 56px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#_new_user_ {
+  top: 711px;
+  left: 616px;
+  width: 299px;
+  height: 56px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: center;
+  color: #ffffff;
+}
+
+#logintop {
+  top: 0px;
+  left: 0px;
+  width: 1500px;
+  height: 123px;
+  -ms-box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  -o-box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  background: rgba(59, 59, 59, 1);
+}
+
+#logo {
+  top: 7px;
+  left: -5px;
+  width: 150px;
+  height: 116px;
+}
+
+#group_14 {
+  top: 172px;
+  left: 1315px;
+  width: 40px;
+  height: 40px;
+}
+
+#ellipse_14 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  -ms-border-radius: 20px / 20px;
+  -o-border-radius: 20px / 20px;
+  -moz-border-radius: 20px / 20px;
+  -webkit-border-radius: 20px / 20px;
+  border-radius: 20px / 20px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#i {
+  top: 6px;
+  left: -1px;
+  width: 52px;
+  height: 53px;
+  overflow: hidden;
+  font-family: Webdings;
+  font-size: 30px;
+  text-align: center;
+  color: #3b3b3b;
+}
+
+/* Add your custom CSS here */

@@ -1,0 +1,220 @@
+/*
+	@name cents_and_sense
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1500px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__signed_overview {
+	top: 0px;
+	left: 0px;
+	width: 1500px;
+	height: 1000px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1500px;
+	height: 1000px;
+	background:rgba(76.92,78.9,126.44,1);
+}
+
+#group_13 {
+	top: 173px;
+	left: 145px;
+	width: 0px;
+	height: 0px;
+}
+
+#userprofileimage {
+	top: 0px;
+	left: 0px;
+	width: 285px;
+	height: 285px;
+	-ms-border-radius: 142.5px / 142.5px;
+	-o-border-radius: 142.5px / 142.5px;
+	-moz-border-radius: 142.5px / 142.5px;
+	-webkit-border-radius: 142.5px / 142.5px;
+	border-radius: 142.5px / 142.5px;
+	background:rgba(196,196,196,1);
+}
+
+
+#userprofileimage_ek1 {
+	top: 0px;
+	left: 925px;
+	width: 285px;
+	height: 285px;
+	-ms-border-radius: 142.5px / 142.5px;
+	-o-border-radius: 142.5px / 142.5px;
+	-moz-border-radius: 142.5px / 142.5px;
+	-webkit-border-radius: 142.5px / 142.5px;
+	border-radius: 142.5px / 142.5px;
+	background:rgba(196,196,196,1);
+}
+
+
+#_5 {
+	top: 369px;
+	left: 775px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#_4 {
+	top: 369px;
+	left: 1090px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#_2 {
+	top: 369px;
+	left: 460px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#__class_a_href__signed_overview_html___mask_group {
+	top: 369px;
+	left: 145px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#overviewbottom {
+	top: 877px;
+	left: 0px;
+	width: 1500px;
+	height: 124px;
+}
+
+
+#ellipse_1 {
+	top: 896px;
+	left: 1128.5px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(255,255,255,1);
+}
+
+#usericon {
+	top: 904px;
+	left: 1138.5px;
+	width: 56px;
+	height: 56px;
+}
+
+#icon {
+	top: 4.67px;
+	left: 7px;
+	width: 42px;
+	height: 46.67px;
+}
+
+
+#ellipse_2 {
+	top: 896px;
+	left: 713px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(255,255,255,1);
+}
+
+#calculatorbtn_ek1 {
+	top: 906px;
+	left: 722px;
+	width: 56px;
+	height: 56px;
+}
+
+#icon_ek1 {
+	top: 4.67px;
+	left: 7px;
+	width: 42px;
+	height: 46.67px;
+}
+
+#overviewbtn {
+	top: 859px;
+	left: 295.5px;
+	width: 75px;
+	height: 75px;
+}
+
+#ellipse_3 {
+	top: 0px;
+	left: 0px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(255,255,255,1);
+}
+
+#dataicon {
+	top: 10px;
+	left: 12px;
+	width: 56px;
+	height: 56px;
+}
+
+#icon_ek2 {
+	top: 4.67px;
+	left: 4.67px;
+	width: 46.67px;
+	height: 46.67px;
+}
+
+
+#overviewtop {
+	top: 0px;
+	left: 0px;
+	width: 1500px;
+	height: 123px;
+	-ms-box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	background:rgba(77,79,126,1);
+}
+
+
+#logo {
+	top: 7px;
+	left: -5px;
+	width: 150px;
+	height: 116px;
+}
+
+
+
+/* Add your custom CSS here */

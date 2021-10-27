@@ -1,0 +1,449 @@
+/*
+	@name cents_and_sense
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1500px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__unsigned_calculators {
+	top: 0px;
+	left: 0px;
+	width: 1500px;
+	height: 1000px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1500px;
+	height: 1547px;
+}
+
+
+#_9 {
+	top: 809px;
+	left: 145px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(150.87,150.87,150.87,1);
+}
+
+
+#_10 {
+	top: 809px;
+	left: 460px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(150.87,150.87,150.87,1);
+}
+
+
+#_11 {
+	top: 809px;
+	left: 775px;
+	width: 263px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(150.87,150.87,150.87,1);
+}
+
+
+#_12 {
+	top: 809px;
+	left: 1090px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(150.87,150.87,150.87,1);
+}
+
+
+#_13 {
+	top: 1124px;
+	left: 145px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(150.87,150.87,150.87,1);
+}
+
+
+#_14 {
+	top: 1124px;
+	left: 460px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(150.87,150.87,150.87,1);
+}
+
+
+#_15 {
+	top: 1124px;
+	left: 775px;
+	width: 263px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(150.87,150.87,150.87,1);
+}
+
+
+#_16 {
+	top: 1124px;
+	left: 1090px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(150.87,150.87,150.87,1);
+}
+
+
+#_17 {
+	top: 487px;
+	left: 1090px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#_18 {
+	top: 487px;
+	left: 775px;
+	width: 263px;
+	height: 262px;
+}
+
+
+#_19 {
+	top: 487px;
+	left: 460px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#_20 {
+	top: 487px;
+	left: 145px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#_5 {
+	opacity:0.5;
+	top: 487px;
+	left: 145px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(0,0,0,1);
+}
+
+
+#_6 {
+	opacity:0.5;
+	top: 487px;
+	left: 460px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(0,0,0,1);
+}
+
+
+#_7 {
+	opacity:0.5;
+	top: 487px;
+	left: 775px;
+	width: 263px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(0,0,0,1);
+}
+
+
+#_8 {
+	opacity:0.5;
+	top: 487px;
+	left: 1090px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(0,0,0,1);
+}
+
+
+#_4 {
+	top: 172px;
+	left: 1090px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#_3 {
+	top: 172px;
+	left: 775px;
+	width: 263px;
+	height: 262px;
+}
+
+
+#_2 {
+	top: 172px;
+	left: 460px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#_1 {
+	top: 172px;
+	left: 145px;
+	width: 262px;
+	height: 262px;
+}
+
+
+#_21 {
+	opacity:0.5;
+	top: 172px;
+	left: 145px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_22 {
+	opacity:0.5;
+	top: 172px;
+	left: 460px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_23 {
+	opacity:0.5;
+	top: 172px;
+	left: 775px;
+	width: 263px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_24 {
+	opacity:0.5;
+	top: 172px;
+	left: 1090px;
+	width: 262px;
+	height: 262px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+
+#calculatorusbottom {
+	top: 876px;
+	left: 0px;
+	width: 1500px;
+	height: 124px;
+}
+
+
+#ellipse_1 {
+	top: 896px;
+	left: 1128.5px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(255,255,255,1);
+}
+
+#usericon {
+	top: 904px;
+	left: 1138.5px;
+	width: 56px;
+	height: 56px;
+}
+
+#icon {
+	top: 4.67px;
+	left: 7px;
+	width: 42px;
+	height: 46.67px;
+}
+
+#calculatorbtn {
+	top: 859px;
+	left: 713px;
+	width: 75px;
+	height: 75px;
+}
+
+#ellipse_2 {
+	top: 0px;
+	left: 0px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(255,255,255,1);
+}
+
+#calculatorbtn_ek1 {
+	top: 10px;
+	left: 9px;
+	width: 56px;
+	height: 56px;
+}
+
+#icon_ek1 {
+	top: 4.67px;
+	left: 7px;
+	width: 42px;
+	height: 46.67px;
+}
+
+
+#ellipse_3 {
+	top: 896px;
+	left: 295.5px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(255,255,255,1);
+}
+
+#dataicon {
+	top: 906px;
+	left: 307.5px;
+	width: 56px;
+	height: 56px;
+}
+
+#icon_ek2 {
+	top: 4.67px;
+	left: 4.67px;
+	width: 46.67px;
+	height: 46.67px;
+}
+
+
+#calculatorustop {
+	top: 0px;
+	left: 0px;
+	width: 1500px;
+	height: 123px;
+	-ms-box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 100px 1px rgba(0,0,0,0.25);
+	background:rgba(67,162,163,1);
+}
+
+
+#logo {
+	top: 7px;
+	left: -5px;
+	width: 150px;
+	height: 116px;
+}
+
+
+
+/* Add your custom CSS here */

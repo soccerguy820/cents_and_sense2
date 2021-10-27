@@ -1,0 +1,427 @@
+/*
+	@name cents_and_sense
+*/
+/* Only edit this if you know what you are doing! */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+/* Only edit this if you know what you are doing! */
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+/* Only edit this if you know what you are doing! */
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#_bg__signed_account {
+  top: 0px;
+  left: 0px;
+  width: 1500px;
+  height: 1000px;
+  background: rgba(229, 229, 229, 1);
+}
+
+#group_10 {
+  top: 0px;
+  left: 0px;
+  width: 1535px;
+  height: 1759px;
+}
+
+#rectangle_1 {
+  top: 0px;
+  left: 0px;
+  width: 1500px;
+  height: 1759px;
+}
+
+#userprofileimage {
+  opacity: 0.75;
+  top: 169px;
+  left: 585px;
+  width: 331px;
+  height: 331px;
+  -ms-border-radius: 165.5px / 165.5px;
+  -o-border-radius: 165.5px / 165.5px;
+  -moz-border-radius: 165.5px / 165.5px;
+  -webkit-border-radius: 165.5px / 165.5px;
+  border-radius: 165.5px / 165.5px;
+  background: rgba(252, 201, 169, 0.75);
+}
+
+#username__date_created__questions_answered_ {
+  top: 181px;
+  left: 141px;
+  width: 254px;
+  height: 302.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 25px;
+  text-align: right;
+  color: #ffffff;
+}
+
+#raven_october_20__2021_5 {
+  top: 181px;
+  left: 390px;
+  width: 244px;
+  height: 302.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 25px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text {
+  top: 529px;
+  left: 140px;
+  width: 574px;
+  height: 301px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_placeholder_text_ek1 {
+  top: 524px;
+  left: 796px;
+  width: 574px;
+  height: 306px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#hourly_income__monthly_income__yearly_income__annual_savings______current_savings_ {
+  top: 181px;
+  left: 935px;
+  width: 238px;
+  height: 302.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 25px;
+  text-align: right;
+  color: #ffffff;
+}
+
+#__17_50__3033_33__36400_10___500 {
+  top: 181px;
+  left: 1167px;
+  width: 179px;
+  height: 302.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 25px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#userprofileimage_ek1 {
+  opacity: 0.75;
+  top: 1050px;
+  left: 145px;
+  width: 440px;
+  height: 440px;
+  -ms-border-radius: 220px / 220px;
+  -o-border-radius: 220px / 220px;
+  -moz-border-radius: 220px / 220px;
+  -webkit-border-radius: 220px / 220px;
+  border-radius: 220px / 220px;
+  background: rgba(204, 165, 141, 0.75);
+}
+
+#userprofileimage_ek2 {
+  opacity: 0.75;
+  top: 1000px;
+  left: 480px;
+  width: 350px;
+  height: 350px;
+  -ms-border-radius: 175px / 175px;
+  -o-border-radius: 175px / 175px;
+  -moz-border-radius: 175px / 175px;
+  -webkit-border-radius: 175px / 175px;
+  border-radius: 175px / 175px;
+  background: rgba(218, 174, 149, 0.75);
+}
+
+#_30__school {
+  top: 1175px;
+  left: 50px;
+  width: 599px;
+  height: 341px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 80px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#userprofileimage_ek3 {
+  opacity: 0.75;
+  top: 1241px;
+  left: 663px;
+  width: 308px;
+  height: 308px;
+  -ms-border-radius: 154px / 154px;
+  -o-border-radius: 154px / 154px;
+  -moz-border-radius: 154px / 154px;
+  -webkit-border-radius: 154px / 154px;
+  border-radius: 154px / 154px;
+  background: rgba(242, 199, 165, 0.75);
+}
+
+#_20__food {
+  top: 1050px;
+  left: 392px;
+  width: 594px;
+  height: 334px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 70px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#userprofileimage_ek4 {
+  opacity: 0.75;
+  top: 1048px;
+  left: 1146px;
+  width: 209px;
+  height: 209px;
+  -ms-border-radius: 104.5px / 104.5px;
+  -o-border-radius: 104.5px / 104.5px;
+  -moz-border-radius: 104.5px / 104.5px;
+  -webkit-border-radius: 104.5px / 104.5px;
+  border-radius: 104.5px / 104.5px;
+  background: rgba(252, 231, 217, 0.75);
+}
+
+#userprofileimage_ek5 {
+  opacity: 0.75;
+  top: 1089px;
+  left: 831px;
+  width: 280px;
+  height: 280px;
+  -ms-border-radius: 140px / 140px;
+  -o-border-radius: 140px / 140px;
+  -moz-border-radius: 140px / 140px;
+  -webkit-border-radius: 140px / 140px;
+  border-radius: 140px / 140px;
+  background: rgba(255, 212, 184, 0.75);
+}
+
+#userprofileimage_ek6 {
+  opacity: 0.75;
+  top: 1192px;
+  left: 1032px;
+  width: 240px;
+  height: 240px;
+  -ms-border-radius: 120px / 120px;
+  -o-border-radius: 120px / 120px;
+  -moz-border-radius: 120px / 120px;
+  -webkit-border-radius: 120px / 120px;
+  border-radius: 120px / 120px;
+  background: rgba(250, 219, 198, 0.75);
+}
+
+#_18__travel {
+  top: 1350px;
+  left: 525px;
+  width: 589px;
+  height: 327px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 60px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#_15__work {
+  top: 1125px;
+  left: 673px;
+  width: 584px;
+  height: 320px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 50px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#_10__saving {
+  top: 1275px;
+  left: 879px;
+  width: 579px;
+  height: 313px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 40px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#_7__gifts {
+  top: 1075px;
+  left: 974px;
+  width: 579px;
+  height: 313px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 40px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#cartoon_2027047_1 {
+  top: 169px;
+  left: 612px;
+  width: 279px;
+  height: 331px;
+}
+
+#image_10 {
+  top: 12px;
+  left: 10px;
+  width: 259px;
+  height: 307px;
+}
+
+#accountbottom {
+  top: 877px;
+  left: 0px;
+  width: 1500px;
+  height: 123px;
+}
+
+#userprofilebtn {
+  top: 859px;
+  left: 1128.5px;
+  width: 75px;
+  height: 75px;
+}
+
+#ellipse_1 {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 75px;
+  -ms-border-radius: 37.5px / 37.5px;
+  -o-border-radius: 37.5px / 37.5px;
+  -moz-border-radius: 37.5px / 37.5px;
+  -webkit-border-radius: 37.5px / 37.5px;
+  border-radius: 37.5px / 37.5px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#usericon {
+  top: 8px;
+  left: 10px;
+  width: 56px;
+  height: 56px;
+}
+
+#icon {
+  top: 4.67px;
+  left: 7px;
+  width: 42px;
+  height: 46.67px;
+}
+
+#ellipse_2 {
+  top: 896px;
+  left: 713px;
+  width: 75px;
+  height: 75px;
+  -ms-border-radius: 37.5px / 37.5px;
+  -o-border-radius: 37.5px / 37.5px;
+  -moz-border-radius: 37.5px / 37.5px;
+  -webkit-border-radius: 37.5px / 37.5px;
+  border-radius: 37.5px / 37.5px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#calculatorbtn_ek1 {
+  top: 906px;
+  left: 722px;
+  width: 56px;
+  height: 56px;
+}
+
+#icon_ek1 {
+  top: 4.67px;
+  left: 7px;
+  width: 42px;
+  height: 46.67px;
+}
+
+#ellipse_3 {
+  top: 896px;
+  left: 295.5px;
+  width: 75px;
+  height: 75px;
+  -ms-border-radius: 37.5px / 37.5px;
+  -o-border-radius: 37.5px / 37.5px;
+  -moz-border-radius: 37.5px / 37.5px;
+  -webkit-border-radius: 37.5px / 37.5px;
+  border-radius: 37.5px / 37.5px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#dataicon {
+  top: 906px;
+  left: 307.5px;
+  width: 56px;
+  height: 56px;
+}
+
+#icon_ek2 {
+  top: 4.67px;
+  left: 4.67px;
+  width: 46.67px;
+  height: 46.67px;
+}
+
+#accounttop {
+  top: 0px;
+  left: 0px;
+  width: 1500px;
+  height: 123px;
+  -ms-box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  -o-box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 100px 1px rgba(0, 0, 0, 0.25);
+  background: rgba(59, 59, 59, 1);
+}
+
+#logo {
+  top: 7px;
+  left: -5px;
+  width: 150px;
+  height: 116px;
+}
+
+/* Add your custom CSS here */

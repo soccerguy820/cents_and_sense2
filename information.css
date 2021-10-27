@@ -1,0 +1,38 @@
+/*
+	@name cents_and_sense
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 500px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__info_overlay {
+	top: 0px;
+	left: 0px;
+	width: 500px;
+	height: 500px;
+	background:rgba(255,255,255,1);
+}
+
+
+#do_you_have_any_comments_or_ideas_on_future_calculators__feedback_is_appreciated__you_can_contact_our_team_at__insert_email___the_information_presented_in_this_site_is_for_educational_purposes_only_and_shall_not_be_considered_financial_advice_ {
+	top: 90px;
+	left: 23px;
+	width: 463px;
+	height: 336.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
